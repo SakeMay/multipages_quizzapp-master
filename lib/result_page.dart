@@ -17,7 +17,7 @@ class ResultPage extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: <Widget>[
           Expanded(
-            flex: 30,
+            flex: 35,
             child: Padding(
               padding: EdgeInsets.all(10.0),
               child: Center(
@@ -36,7 +36,7 @@ class ResultPage extends StatelessWidget {
             ),
           ),
           Expanded(
-            flex: 50,
+            flex: 35,
             child: Padding(
               padding: EdgeInsets.all(10.0),
               child: Center(
@@ -55,7 +55,7 @@ class ResultPage extends StatelessWidget {
             ),
           ),
           Expanded(
-            flex: 50,
+            flex: 30,
             child: Padding(
               padding: EdgeInsets.all(10.0),
               child: Center(
